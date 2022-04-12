@@ -3,5 +3,5 @@
 
 > This repository contains code for visualising 10 biggest importers of sunflower oil from Ukraine and Russia 
 
-![](GNI_plot.png) 
+![](media/GNI_plot.png) 
 
