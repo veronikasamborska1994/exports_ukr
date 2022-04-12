@@ -5,3 +5,4 @@
 
 ![](media/GNI_plot.png) 
 
+For interactive version use Jupyter Notebooks 
